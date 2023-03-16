@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## The date: 3.16.23
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
